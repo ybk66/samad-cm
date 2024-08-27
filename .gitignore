@@ -1,0 +1,7 @@
+
+pretrained/*.pth
+output/**
+mytest/
+load/
+存模型/
+save/**
